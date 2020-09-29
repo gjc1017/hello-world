@@ -1,1 +1,3 @@
 rtrt
+如果想要github的remote repository→同步到→matlab的local repository
+在matlab的git空白处右键，fetch/取回
